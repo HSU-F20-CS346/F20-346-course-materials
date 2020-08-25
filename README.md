@@ -2,6 +2,8 @@
 
 ## Required Software
 * Programs will be written in C#.  I recommend [Visual Studio](https://visualstudio.microsoft.com/) if you're on OSX or Windows.  [VS Code](https://code.visualstudio.com/) works well for Linux.  Our Vlab machines come pre-configured with Visual Studio and C#.
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+   * [Extension Pack](https://download.virtualbox.org/virtualbox/6.1.12/Oracle_VM_VirtualBox_Extension_Pack-6.1.12.vbox-extpack)
 
 ## Github Usage
 All projects will be hosted in Github using this organization (HSU-F20-CS346).  You can get enrolled in this organization by taking the following steps:
