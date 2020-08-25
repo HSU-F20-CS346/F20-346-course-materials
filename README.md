@@ -14,3 +14,8 @@ All projects will be hosted in Github using this organization (HSU-F20-CS346).  
 5. You should then be able to navigate to https://github.com/HSU-F20-CS346 and see that you are a part of the organization.
 
 If you have any difficulty, use the chat-cs346 channel on the CS Club Discord server.
+
+## Github Software
+If you are on Windows, you will need to download [Git for Windows](https://git-scm.com/download/win).  When installing Git for Windows, accepting the default options should be fine.  OSX and Linux are a bit different, but you can still find instructions on how to set this up [here](https://git-scm.com/downloads).  
+
+Git is a command-line utility so you're going to have to download a GUI wrapper if you want graphical integration.  I use [TortoiseGit](https://tortoisegit.org/) because I like it's Windows Shell integration.  However, it does have a bit of a learning curve.  [Github Desktop](https://desktop.github.com/) is quite popular with beginners is a good choice.  I've heard good things aobut [Git Kraken](https://www.gitkraken.com/).  It's paid software, but it does have a free student licnese. 
