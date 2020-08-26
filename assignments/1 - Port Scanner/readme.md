@@ -174,3 +174,6 @@ Your buddy report will be submitted on canvas and **__should not__** be included
 * Completing all above requirements and **__all__** advanced requirements will result in a A
 * Completing one or more bonuses will result in extra credit if and only if all requirements 
 have been implemented.  
+
+# Due Date
+The official deadline is Friday, September 4, 2020 by midnight.  
