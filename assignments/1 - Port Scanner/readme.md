@@ -81,7 +81,7 @@ You build a GUI for your application using either WinForms or Xamarin / WPF.
 Come up with something yourself!  Just okay it with me first :)
 
 # Tips
-Not sure where to start?  Try running the EchoService client with and without the server running. 
+Not sure where to start?  Try running the EchoService client with and without the EchoService server running. 
 What do you notice?
 
 The default TcpClient timeout is a little long which will make scanning multiple ports take too long.  
