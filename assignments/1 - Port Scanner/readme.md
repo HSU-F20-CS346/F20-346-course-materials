@@ -5,8 +5,8 @@ port is open on a specified server.
 
 # Getting Started
 Begin by creating a private repository in the course's [GitHub organization](https://github.com/HSU-F20-CS346).
-Your repository name **__must__** be in the following format: ```p1-{HSU LOGIN}```.  Thus, my project repository
-name would be ```p1-asc564```.  When creating your repository, be sure to initialize your repository with a readme
+Your repository name **__must__** be in the following format: ```p01-{HSU LOGIN}```.  Thus, my project repository
+name would be ```p01-asc564```.  When creating your repository, be sure to initialize your repository with a readme
 and add a VisualStudio .gitignore template.  License doesn't matter so much -- I typically choose Apache.  
 
 Once created, your repository should have a "src" directory that contains your solution file and 
