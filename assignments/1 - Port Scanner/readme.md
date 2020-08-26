@@ -126,9 +126,16 @@ Example:
 ```As a IT administrator, I can scan a given port on a server so that I can tell whether or not a given service is running on that server.```
 
 Additionally, acceptance criteria (how you know when the issue is done) should be provided in the issue's description. 
-Acceptance criterial are ideally listed as checkboxes using brackets [].  Note that it is acceptable to create acceptance criteria as you
+Acceptance criterial are ideally listed as checkboxes using brackets in markdown [].  Note that it is acceptable to create acceptance criteria as you
 go alone.  Acceptance criteria themselves should be atomic. E.g. "Allow user to specify either TCP or UDP" is a good
 acceptance criteria whereas "Complete basic project requirements" is not.  
+
+Here's an example checklist in markdown
+
+- [x] Task 1
+- [ ] Task 2
+
+Note that all checkboxes should be checked before closing an issue.
 
 # Design Diary Prompt
 Design diaries should be a paragraph or two.  You will be graded on content (i.e. it shows 
