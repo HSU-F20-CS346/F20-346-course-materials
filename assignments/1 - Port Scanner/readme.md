@@ -139,7 +139,7 @@ Note that all checkboxes should be checked before closing an issue.
 
 # Design Diary Prompt
 Design diaries should be a paragraph or two.  You will be graded on content (i.e. it shows 
-deep though) rather than syntax (e.g. spelling) and structure.  Below are some prompts that can be used to get 
+deep thought) rather than syntax (e.g. spelling) and structure.  Below are some prompts that can be used to get 
 you thinking.  Feel free to use these or to make up your own.
 * Describe a particular struggle that you overcame when working on this programming assignment.
 * Conversely, describe an issue with your assignment that you were unable to resolve.
