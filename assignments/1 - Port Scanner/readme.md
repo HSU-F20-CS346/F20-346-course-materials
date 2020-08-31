@@ -176,4 +176,4 @@ Your buddy report will be submitted on canvas and **__should not__** be included
 have been implemented.  
 
 # Due Date
-The official deadline is Friday, September 4, 2020 by midnight.  
+The official deadline is Friday, September 4, 2020 by midnight.  Submit your reflection and buddy report on Canvas.  Be sure to include a licecap demo of your project in the root of your repository.  Include a link in your main readme.md
