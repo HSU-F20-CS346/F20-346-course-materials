@@ -3,6 +3,7 @@
 ## Required Software
 * Programs will be written in C#.  I recommend [Visual Studio](https://visualstudio.microsoft.com/) if you're on OSX or Windows.  [VS Code](https://code.visualstudio.com/) works well for Linux.  Our Vlab machines come pre-configured with Visual Studio and C#.
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads).  Be sure to download both the "platform package" and "Extension Pack."
+* [Licecap](https://www.cockos.com/licecap/) or some orther screen recording software.  **NOTE** I've included a standalone EXE for Windows users in the Utils directory of this repository. 
 
 ## Github Usage
 All projects will be hosted in Github using this organization (HSU-F20-CS346).  You can get enrolled in this organization by taking the following steps:
