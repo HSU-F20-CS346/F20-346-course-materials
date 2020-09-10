@@ -1,4 +1,4 @@
-# CS 346 Assignment #1 - Port Scanner
+# CS 346 Assignment #2 - Chat Client
 In this assignment, you will implement a chat client for a pre-built [chat server](https://github.com/HSU-F20-CS346/chat-server).  A walkthrough of how everything works will be done in class.  A video recording of this will be posted here once available.
 
 # Getting Started
