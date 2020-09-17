@@ -41,7 +41,7 @@ You refactor the server to make it better.  Any changes that you make should be 
 1. Actually implement authentication
 2. Actually use encryption during the authentication process 
 3. Store users and messages in a SQLite database
-4. Allow clients to get messages sent before their log-in
+4. Allow clients to download a chat history from the server
 5. Implement an idle timeout on the server
 6. Gracefully handle exceptions (i.e. don't allow them to crash the chat server!)
 7. Anything else you can think of
