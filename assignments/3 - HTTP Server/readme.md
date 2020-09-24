@@ -7,6 +7,11 @@ Your repository name **__must__** be in the following format: ```p03-{HSU LOGIN}
 name would be ```p03-asc564```.  When creating your repository, be sure to initialize your repository with a readme
 and add a VisualStudio .gitignore template.  License doesn't matter so much -- I typically choose Apache.  
 
+## Useful Utilities
+* [Postman](https://www.postman.com/)
+* [Fiddler](https://www.telerik.com/download/fiddler)
+* [Wireshark](https://www.wireshark.org/)
+
 Once created, your repository should have a "src" directory that contains your solution file and 
 a project directory.  See the [the http server](https://github.com/HSU-F20-CS346/http-server) repository on
 how I expect things to be set up.    
