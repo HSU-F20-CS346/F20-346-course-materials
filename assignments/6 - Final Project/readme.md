@@ -12,10 +12,10 @@ Alter your project's readme to describe the intent and scope of your project.
 Once created, your repository should have a "src" directory that contains your code. 
 
 # Deliverables
-1. [20 pts] During lab on November 27, you will demo to me the current functionality of your project.
+1. [20 pts] During lab on December 4, you will demo to me the current functionality of your project.
 2. [25 pts] You will make a demo video highlighting your project that will be presented during lab on December 11.
 3. [30 pts] You will make a final demo video that highlights your finished project.  This will be presented during our final exam period on December 15 between 10:20 and 12:10.
-4. [100 pts] On or after Wednesday, December 16, I will grade your project and repository based on making good progress on your project, maintaining a good github workflow, and writing a design diary
+4. [130 pts] On or after Wednesday, December 16, I will grade your project and repository based on making good progress on your project, maintaining a good github workflow, and writing a design diary
 
 # Due Date
 Due dates for each deliverable are provided in the section above.  
