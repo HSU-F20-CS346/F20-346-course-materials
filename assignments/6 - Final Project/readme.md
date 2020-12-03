@@ -14,7 +14,13 @@ Once created, your repository should have a "src" directory that contains your c
 # Deliverables
 1. [20 pts] During lab on December 4, you will demo to me the current functionality of your project.
 2. [25 pts] You will make a demo video highlighting your project that will be presented during lab on December 11.
+   * No more than 3 minutes for your video (but at least 2 minutes)
+   * Touch on your grand vision, where you're at, and where you plan to go
 3. [30 pts] You will make a final demo video that highlights your finished project.  This will be presented during our final exam period on December 15 between 10:20 and 12:10.
+   * No more than 5 minutes for you video (but at least 3 minutes)
+   * Your video should have some sort of "sales pitch" component in which you demo the coolest or most functional parts of your program
+   * Your video should also include a retrospective where you talk about some of the challenges you faced
+   * Lastly, end with a key takeaway from your experience; what did you learn about the most from this assignment? 
 4. [130 pts] On or after Wednesday, December 16, I will grade your project and repository based on making good progress on your project, maintaining a good github workflow, and writing a design diary
 
 # Due Date
